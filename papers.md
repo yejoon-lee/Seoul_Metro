@@ -24,3 +24,13 @@
 > [5] Salze, P., Banos, A., Oppert, J. M., Charreire, H., Casey, R., Simon, C., ... & Weber, C. (2011). Estimating spatial accessibility to facilities on the regional scale: an extended commuting-based interaction potential model. International journal of health geographics, 10(1), 1-16.
 
 - Potential accessibility model of whcih parameters are estimated via regression
+
+
+
+> [6] [스마트 빅 데이터 분석: 성륏 지하철 승객 예측](http://147.46.67.254/wp-content/uploads/2015/07/smart%20bigdata%20analysis.pdf)  
+
+- Boosted Tree와 SVM을 이용한 승차인원 분석. 강남역의 특징, 사당역의 특징 등을 간략히 제시하고, 월별로 데이터를 뽑아내 학생들이 등교하는 월에 이용자 수가 많으며 출퇴근 시간에 이용자수가 많은 것을 정리함.  
+
+"지하철 한 량"에 타고 있는 승객 수를 통해 Network Flow의 분석을 시도한 듯하나 뭔가 문제가 있다고만 나오고 결론이 없음  
+
+"비가 오니 차가 막히겠다", 날씨와 대중교통 이용률간의 관계 제시  
