@@ -27,7 +27,7 @@
 
 
 
-> [6] [스마트 빅 데이터 분석: 성륏 지하철 승객 예측](http://147.46.67.254/wp-content/uploads/2015/07/smart%20bigdata%20analysis.pdf)  
+> [6] [스마트 빅 데이터 분석: 서울시 지하철 승객 예측](http://147.46.67.254/wp-content/uploads/2015/07/smart%20bigdata%20analysis.pdf)  
 
 - Boosted Tree와 SVM을 이용한 승차인원 분석. 강남역의 특징, 사당역의 특징 등을 간략히 제시하고, 월별로 데이터를 뽑아내 학생들이 등교하는 월에 이용자 수가 많으며 출퇴근 시간에 이용자수가 많은 것을 정리함.  
 
