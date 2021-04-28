@@ -14,6 +14,10 @@ df = df.iloc[
 
 
 def no_to_name(no):
+    """
+    parameter: stNO
+    return: stName, line
+    """
     name = df[df["no"] == no]["name"].values[0]
     line = df[df["no"] == no]["line"].values[0]
     return name, line
