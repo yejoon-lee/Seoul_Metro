@@ -17,6 +17,3 @@ def no_to_name(no):
     name = df[df["no"] == no]["name"].values[0]
     line = df[df["no"] == no]["line"].values[0]
     return name, line
-
-
-print(no_to_name("101"))
